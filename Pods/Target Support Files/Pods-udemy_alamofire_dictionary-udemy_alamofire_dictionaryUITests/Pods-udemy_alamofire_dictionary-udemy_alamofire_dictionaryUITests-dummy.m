@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_udemy_alamofire_dictionary_udemy_alamofire_dictionaryUITests : NSObject
+@end
+@implementation PodsDummy_Pods_udemy_alamofire_dictionary_udemy_alamofire_dictionaryUITests
+@end
